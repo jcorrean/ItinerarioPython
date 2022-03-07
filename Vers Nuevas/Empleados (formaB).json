@@ -1,0 +1,25 @@
+[
+  {
+    "id": "001",
+    "Nombre": "Alvaro",
+    "Apellido": "Moncada",
+    "Cargo": "Coordinador",
+    "Area": "Inteligencia Artificial"
+  },
+  {
+    "id": "A002",
+    "Nombre": "Nicolas",
+    "Apellido": "Gomez",
+    "Cargo": "Docente",
+    "Area": "Calculo",
+	"Centro": "SUMA"
+  },
+  {
+    "id": "A003",
+    "Nombre": "Juan Carlos",
+    "Apellido": "Correa",
+    "Cargo": "Docente",
+    "Area": "Analitica de Datos",
+	"Pais": "Venezuela"
+  }
+]
